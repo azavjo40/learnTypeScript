@@ -1,0 +1,8 @@
+{
+  "name": "lear",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/azavjo40/learnTypeScript.git",
+  "author": "Adam <pabek92@gmail.com>",
+  "license": "MIT"
+}
